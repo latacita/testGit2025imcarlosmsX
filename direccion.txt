@@ -1,6 +1,7 @@
 Centro:
 Calle: Av. de los Castros
 Número: 48
-CP: 39005   
+CP: 39005
+CP2: 39005
 Ciudad: Santander
 Provincia: Cantabria
