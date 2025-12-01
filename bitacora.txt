@@ -25,3 +25,11 @@
 13      Merge con NOFASTFORWARD de la RamaA en Master      No ha habido conflictos
 14      Merge con NOFASTFORWARD de la RamaB en Master      Se han resuelto conflictos aceptando la direccion.txt que venia en la RamaB y combinando las bitacoras editadas.
 15      Bitacora editada.       NA
+16      Se crea una nueva rama RamaC    NA
+17      Se desplaza a la RamaC          NA
+18      Se agrega el CP2 a direccion.txt       NA
+19      Creada y subida RamaD sin ningun commit     NA
+20      Se crea el archivo Calificacion.txt y se ecribe la nota esperada en esta prueba     NA
+21      Se guardan los cambios en local solo del archivio Calificacion.txt
+22      Se hace Checkout a la RamaC             NA
+23      Se realizan los cambios pendientes y se edita la bitacora       NA
