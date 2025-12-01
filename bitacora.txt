@@ -9,3 +9,11 @@
 1       Clonar Repositorio          NA
 2       Agregar apellidos a bitacora   NA
 3       Guardar los cambios             NA
+
+
+
+
+
+9       Desplazarse a la RamaB      NA
+10      Editado direccion           NA
+11      Guardado los cambios        NA
