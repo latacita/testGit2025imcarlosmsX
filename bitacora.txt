@@ -33,3 +33,9 @@
 21      Se guardan los cambios en local solo del archivio Calificacion.txt
 22      Se hace Checkout a la RamaC             NA
 23      Se realizan los cambios pendientes y se edita la bitacora       NA
+24      Se hace Checkout a la rama Master       NA
+25      Se anota de que manera se harian los siguientes merges      NA
+26      Merge con NOFASTFORWARD de la RamaC a la Master         NA
+27      Merge con NOFASTFORWARD de la RamaD a la Master         NA
+28      Etiquetar rama master como Conseguido           NA
+29      Editar la bitacroa con todas las acciones realizadas        NA
