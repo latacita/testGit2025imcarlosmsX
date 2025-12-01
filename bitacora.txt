@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre): Sánchez Barreiro, Pablo              %%
+%% Alumno (Apellidos, Nombre): Mendoza Sandoval, Carlos Andres              %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1       Clonar Repositorio          NA
+2       Agregar apellidos a bitacora   NA
+3       Guardar los cambios             NA
