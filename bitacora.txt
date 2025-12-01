@@ -21,3 +21,7 @@
 9       Desplazarse a la RamaB      NA
 10      Editado direccion           NA
 11      Guardado los cambios        NA
+12      Checkout a la Master        NA
+13      Merge con NOFASTFORWARD de la RamaA en Master      No ha habido conflictos
+14      Merge con NOFASTFORWARD de la RamaB en Master      Se han resuelto conflictos aceptando la direccion.txt que venia en la RamaB y combinando las bitacoras editadas.
+15      Bitacora editada.       NA
