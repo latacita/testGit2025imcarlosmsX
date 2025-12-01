@@ -14,3 +14,10 @@
 6.      Desplazarse a RamaA     NA
 7.      Editado el archivo direccion    NA
 8.      Guardar Cambios
+
+
+
+
+9       Desplazarse a la RamaB      NA
+10      Editado direccion           NA
+11      Guardado los cambios        NA
